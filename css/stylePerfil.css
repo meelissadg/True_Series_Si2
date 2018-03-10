@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+#imagesize{
+    width: 270px;
+    height: 400px;
+    
+}
+
+.marginpesquisa{
+	margin-top: 6px;
+}
+
+#botao{
+	width: 90px;
+	
+}
+
+
+body { border-top:3px 	solid #151515; 	margin:0; }

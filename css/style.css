@@ -1,0 +1,63 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.container {
+	display: grid;
+}
+
+.centraliza-titulo{
+	text-align: center;
+}
+
+.detalhes{
+	margin-left: -20px;
+}
+
+#imagesize{
+    width: 270px;
+    height: 400px;
+    
+}
+
+.marginpesquisa{
+	margin-top: 6px;
+	padding-block-start: 6px;
+
+}
+
+.marginlogin{
+	margin-top: 6px;
+	padding-block-start: 6px;
+	margin-left: 5px;
+}
+.margincadastro{
+	margin-top: 6px;
+	padding-block-start: 6px;
+	margin-left: 5px;
+}
+#botao{
+	width: 90px;
+}
+
+body { border-top:3px 	solid #151515; 	margin:0; }
+
+#imagemodal{
+	 width: 200px;
+    height: 320px;
+}
+#parte-perfil{
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
